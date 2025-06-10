@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
 * Programmer:  AJ Clay
 * Date: 07/06/15
-* Name: main.c
+* Name: matrix_calculator.c
 * Description: This program performs basic matrix operations:   multiplication,	addition, and transpose.  The program gets size and entries of matrix from user
                and displays matrices on screen.
 * Pseudo code: -User is prompted to enter size of matrix A and to enter each value entry of the matrix
