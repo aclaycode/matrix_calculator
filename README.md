@@ -45,7 +45,7 @@ gcc -o matrix_ops matrix_ops.c
 
 ## Usage
 
-```bash```
+```bash
 ./matrix_ops
 ```
 
