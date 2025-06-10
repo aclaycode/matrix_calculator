@@ -9,7 +9,7 @@ This program performs basic matrix operations including **addition**, **multipli
 - Performs the following operations:
   - Matrix A + Matrix A
   - Transpose of Matrix B
-  - Transpose of Matrix B × Matrix B
+  - Matrix B × Transpose of Matrix B
 - Displays all matrices and results on screen
 - Frees allocated memory before exiting
 
